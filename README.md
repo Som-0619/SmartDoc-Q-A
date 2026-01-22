@@ -16,8 +16,6 @@ Key promise: **No hallucinations outside the PDFs.** If the answer isn’t in th
 
 ## 🧠 How It Works
 
-![Architecture Diagram](./docs/PDF-LangChain.jpg)
-
 The application follows a Retrieval-Augmented Generation (RAG) pipeline:
 
 1. **PDF Ingestion**
@@ -105,8 +103,6 @@ Follow these steps to run the project locally:
 
 This project is based on a YouTube walkthrough that explains the complete build process:
 
-👉 **Watch here:** [https://youtu.be/dXxQ0LR-3Hg](https://youtu.be/dXxQ0LR-3Hg)
-
 ---
 
 ## 🎯 Use Cases
@@ -125,24 +121,3 @@ This project is based on a YouTube walkthrough that explains the complete build 
 * Performance depends on document quality and chunking strategy
 * Requires an active OpenAI API key
 
----
-
-## 📄 License & Contributions
-
-This repository is intended **strictly for educational purposes** and serves as supporting material for the YouTube tutorial. External contributions are not accepted.
-
-You are encouraged to fork the project, modify it, and extend it for your own learning or experimentation.
-
----
-
-## 🌱 Future Enhancements (Ideas)
-
-* Support for other file formats (DOCX, TXT)
-* Chat history persistence
-* Source citation for each answer
-* Multi-user authentication
-* Local LLM support
-
----
-
-Happy hacking. PDFs don’t have to be silent anymore.
