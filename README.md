@@ -2,7 +2,7 @@
 
 An interactive AI-powered application that lets you **chat with multiple PDF documents at once**. Ask questions in natural language and get precise, context-aware answers strictly grounded in the uploaded PDFs.
 
-This project is built for learning and experimentation, and accompanies a step-by-step YouTube tutorial.
+<img width="2816" height="1536" alt="SmartDoc QandA" src="https://github.com/user-attachments/assets/a08ccf0a-9522-4661-b860-5e9ced142cf8" />
 
 ---
 
@@ -13,6 +13,7 @@ The **MultiPDF Chat App** uses modern NLP techniques and large language models t
 Key promise: **No hallucinations outside the PDFs.** If the answer isn’t in the documents, the app won’t invent one.
 
 ---
+
 
 ## 🧠 How It Works
 
