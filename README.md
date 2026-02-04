@@ -99,12 +99,6 @@ Follow these steps to run the project locally:
 
 ---
 
-## 📺 Tutorial
-
-This project is based on a YouTube walkthrough that explains the complete build process:
-
----
-
 ## 🎯 Use Cases
 
 * Research paper analysis
