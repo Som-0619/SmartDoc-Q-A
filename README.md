@@ -73,7 +73,7 @@ Follow these steps to run the project locally:
    pip install -r requirements.txt
    ```
 
-3. **Set up environment variables**
+3. **Set up environment variables (Optional)**
    Create a `.env` file in the project root and add your OpenAI API key:
 
    ```env
